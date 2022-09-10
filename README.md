@@ -1,4 +1,5 @@
-# WebServer
-make
-./server
-http://ip:9006
+# WebServer   
+make    
+./server    
+ip:9006    
+
